@@ -79,7 +79,7 @@ function makecoffee($type = "cappuccino")
                     <p>}</p>
                     <p>echo makecoffee();</p>
                     <p>echo makecoffee(null);</p>
-                    <p>echo makecoffee("espresso");</p>
+                    <p>echo makecoffee("expresso");</p>
                 </code>
             </div>
 
@@ -90,7 +90,7 @@ function makecoffee($type = "cappuccino")
                         <?php
                             echo makecoffee() . "<br />";
                             echo makecoffee(null) . "<br />";
-                            echo makecoffee("espresso") . "<br />";
+                            echo makecoffee("expresso") . "<br />";
                         ?>
                     </p>
                 </code>

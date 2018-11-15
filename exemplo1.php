@@ -1,7 +1,7 @@
 <?php
 
 function soma(){
-    $n1 = 10;
+    $n1 = 57;
     $n2 = 15;
     return $n1 + $n2;
 }

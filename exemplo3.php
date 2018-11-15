@@ -86,7 +86,7 @@ function takes_array($input)
                     <p><?php
                         $input = array(
                             0 => 13,
-                            1 => 17,
+                            1 => 57,
                         );
                         echo takes_array($input);?>
                     </p>
